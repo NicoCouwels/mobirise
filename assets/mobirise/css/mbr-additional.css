@@ -1808,14 +1808,6 @@ body {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
-.cid-qA1sI8x7cc {
-  padding-top: 15px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-qA1sI8x7cc .mbr-section-subtitle {
-  color: #767676;
-}
 .cid-qzyLSgJVam .navbar {
   padding: .5rem 0;
   background: #333333;
@@ -2192,11 +2184,11 @@ body {
     flex-shrink: 0;
   }
 }
-.cid-qA1oRaL1Mt {
+.cid-qA1AGiWPBG {
   padding-top: 120px;
   padding-bottom: 120px;
   background-color: #ffffff;
 }
-.cid-qA1oRaL1Mt .mbr-text {
+.cid-qA1AGiWPBG .mbr-text {
   color: #767676;
 }
