@@ -602,12 +602,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/kirchner-villa-dresden-lino-met-a4-doorzichtige-achtergrond-1999x2829.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/kirchner-villa-dresden-lino-met-a4-doorzichtige-achtergrond-1999x2829-800x1132.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kirchner-villa-dresden-1999x2829.png",
+                "thumb": "@PROJECT_PATH@/assets/images/kirchner-villa-dresden-1999x2829-800x1132.png",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -631,7 +631,7 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           }
