@@ -618,7 +618,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/caf-in-parijs-als-png-1999x2829-800x1132.png",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Café in Parijs<br>Acrylverf<br>36 cm x 25,5 cm",
+                "caption": "Café in Parijs<br>Acrylverf op karton<br>36 cm x 25,5 cm",
                 "active": false
               },
               {
@@ -631,6 +631,18 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Planten compositie<br>Aquatint<br>19,9 cm x 14,8 cm",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/monotype-vodden-1999x2829.png",
+                "thumb": "@PROJECT_PATH@/assets/images/monotype-vodden-1999x2829-800x1132.png",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Portret van Vodden<br>Monotype<br>35 cm x 25,4 cm",
                 "active": true
               }
             ]
