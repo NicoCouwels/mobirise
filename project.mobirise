@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 36,
+    "uniqCompNum": 37,
     "versionPublish": "4.3.4",
     "theme": {
       "name": "mobirise4",
@@ -687,6 +687,18 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Blad<br>Droge Naald<br>17,4 cm x 7 cm",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/monotype-plant-als-png-1999x2829.png",
+                "thumb": "@PROJECT_PATH@/assets/images/monotype-plant-als-png-1999x2829-800x1132.png",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Tulp<br>Monotype<br>24,1 cm x 17,5 cm",
                 "active": true
               }
             ]
