@@ -670,12 +670,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/monotype-vodden-1999x2829.png",
-                "thumb": "@PROJECT_PATH@/assets/images/monotype-vodden-1999x2829-800x1132.png",
+                "image": "@PROJECT_PATH@/assets/images/monotype-vodden-als-png-1999x2829.png",
+                "thumb": "@PROJECT_PATH@/assets/images/monotype-vodden-als-png-1999x2829-800x1132.png",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Doeken afdruk<br>Monotype<br>35 cm x 25,4 cm",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -687,7 +687,7 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Blad<br>Droge Naald<br>17,4 cm x 7 cm",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
