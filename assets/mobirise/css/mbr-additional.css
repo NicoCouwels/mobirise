@@ -1720,6 +1720,24 @@ body {
     flex-shrink: 0;
   }
 }
+.cid-qC05C64Isy {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/wit-300x188.png");
+}
+.cid-qC05C64Isy .mbr-figure {
+  margin: 0 auto;
+}
+.cid-qC05C64Isy H1 {
+  color: #232323;
+}
+.cid-qC05C64Isy .mbr-text,
+.cid-qC05C64Isy .mbr-section-btn {
+  color: #232323;
+}
+.cid-qC05C64Isy H3 {
+  color: #232323;
+}
 .cid-qztgj5guJE {
   padding-top: 120px;
   padding-bottom: 60px;
@@ -1827,8 +1845,14 @@ body {
 }
 .cid-qAZql5pyJl {
   padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #55b4d4;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qAZql5pyJl H2 {
+  color: #232323;
+}
+.cid-qAZql5pyJl .mbr-text {
+  color: #232323;
 }
 .cid-qAZl48Iumu .modal-body .close {
   background: #1b1b1b;
