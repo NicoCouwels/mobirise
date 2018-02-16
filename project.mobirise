@@ -2474,12 +2474,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/blad-patroon-nr.31-met-metagegevens-1441x2062.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/blad-patroon-nr.31-met-metagegevens-1441x2062-800x1144.jpg",
+                "image": "@PROJECT_PATH@/assets/images/blad-patroon-nr.31-als-png-1999x2829.png",
+                "thumb": "@PROJECT_PATH@/assets/images/blad-patroon-nr.31-als-png-1999x2829-800x1132.png",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Blad met patroon nr. 31<br>23,2 cm x 15,9 cm<br>",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
@@ -2491,7 +2491,7 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Blad met patroon gedrukt op papier<br>12,3 cm x 9,6 cm<br>",
-                "active": true
+                "active": false
               }
             ]
           }
