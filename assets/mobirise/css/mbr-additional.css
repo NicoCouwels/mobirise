@@ -1810,6 +1810,42 @@ body {
 .cid-qJQLqkfE57 .card-box {
   padding-top: 2rem;
 }
+.cid-qMbVZoDC1T {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/wit-1-300x188.png");
+}
+.cid-qMbVZoDC1T .media-container-row {
+  flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-qMbVZoDC1T .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qMbVZoDC1T .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-qMbVZoDC1T .mbr-text {
+    text-align: center;
+  }
+}
+.cid-qMbVZoDC1T H1 {
+  color: #000000;
+}
+.cid-qMbVZoDC1T .mbr-text,
+.cid-qMbVZoDC1T .mbr-section-btn {
+  color: #000000;
+  text-align: center;
+}
+.cid-qMbVZoDC1T H3 {
+  color: #000000;
+}
 .cid-qJQVVE46Zm {
   padding-top: 15px;
   padding-bottom: 0px;
