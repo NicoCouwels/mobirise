@@ -2187,7 +2187,7 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Blad met patroon nr. 1<br>23 cm x 15,7 cm",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Awesome",
@@ -2302,8 +2302,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/blad-patroon-nr.-11-als-png-1999x2829.png",
-                "thumb": "@PROJECT_PATH@/assets/images/blad-patroon-nr.-11-als-png-1999x2829-800x1132.png",
+                "image": "@PROJECT_PATH@/assets/images/blad-patroon-nr.11-als-png.png",
+                "thumb": "@PROJECT_PATH@/assets/images/blad-patroon-nr.11-als-png-800x1132.png",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Blad met patroon nr. 11<br>23,1 cm x 15,9 cm<br>",
@@ -2314,8 +2314,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/blad-patroon-nr.12-als-png-1999x2829.png",
-                "thumb": "@PROJECT_PATH@/assets/images/blad-patroon-nr.12-als-png-1999x2829-800x1132.png",
+                "image": "@PROJECT_PATH@/assets/images/blad-patroon-nr.12-als-png.png",
+                "thumb": "@PROJECT_PATH@/assets/images/blad-patroon-nr.12-als-png-800x1132.png",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Blad met patroon nr. 12<br>23 cm x 15,8 cm<br>",
@@ -2326,12 +2326,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/blad-patroon-nr.-13-als-png-1999x2829.png",
-                "thumb": "@PROJECT_PATH@/assets/images/blad-patroon-nr.-13-als-png-1999x2829-800x1132.png",
+                "image": "@PROJECT_PATH@/assets/images/blad-patroon-nr.13-als-png.png",
+                "thumb": "@PROJECT_PATH@/assets/images/blad-patroon-nr.13-als-png-800x1132.png",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Blad met patroon nr. 13<br>23,2 cm x 15,9 cm<br>",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
