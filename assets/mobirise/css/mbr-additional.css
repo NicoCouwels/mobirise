@@ -1847,38 +1847,6 @@ body {
 .cid-qSXq6KnMbu .card-wrapper {
   height: 100%;
 }
-.cid-qT01Qqk922 {
-  padding-top: 0px;
-  padding-bottom: 45px;
-  background-image: url("../../../assets/images/wit.png");
-}
-.cid-qT01Qqk922 .media-container-row {
-  flex-direction: row-reverse;
-}
-@media (min-width: 992px) {
-  .cid-qT01Qqk922 .mbr-figure {
-    padding-right: 4rem;
-    padding-right: 0;
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-qT01Qqk922 .mbr-figure {
-    padding-bottom: 3rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-qT01Qqk922 .mbr-text {
-    text-align: center;
-  }
-}
-.cid-qT01Qqk922 H1 {
-  color: #000000;
-}
-.cid-qT01Qqk922 .mbr-text,
-.cid-qT01Qqk922 .mbr-section-btn {
-  color: #000000;
-}
 .cid-qMbVZoDC1T {
   padding-top: 90px;
   padding-bottom: 90px;
